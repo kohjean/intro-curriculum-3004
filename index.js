@@ -13,7 +13,7 @@ function mult(numbers) {
   }
   return result;
 }
-module.export = {
+module.exports = {
   add,
   mult
 };
